@@ -6,7 +6,7 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Umair Khan](https://linkedin.com/in/umair228), a Software Engineer 🚀 from Pakistan, but I describes myself as a Technology Entusiast, Life-Long Learner !! 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/umair228/umair228/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs
 - 🌱 I’m currently exploring new things in technology.
