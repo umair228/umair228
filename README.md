@@ -20,10 +20,25 @@ Hi, I'm [Umair Khan](https://linkedin.com/in/umair228), a Software Engineer 🚀
 
 
 ### :octocat: Github Statistics
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=umair228&show_icons=true&theme=radical" alt="umair228" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair228&layout=compact&hide=html&theme=radical" alt="umair228"/>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umair228&theme=radical"
+    alt="umair228 profile details"
+  />
+  <br/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umair228&theme=radical"
+    alt="umair228 repos per language"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umair228&theme=radical"
+    alt="umair228 most commit language"
+    height="180"
+  />
 </p>
+
 
 
 ### :card_index: Latest Blog posts
